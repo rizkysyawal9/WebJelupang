@@ -1,14 +1,9 @@
-# Default starter for Gridsome
+# Website Kelurahan Jelupang
+Webiste ini dibuat menggunakan Gridsome Framework + Netlify CMS untuk keperluan KKN-T Tangerang Selatan
 
-This is the project you get when you run `gridsome create new-project`.
+Cara ngerun website ini
+1. Install gridsome CLI. Di terminal anda run ini `npm install --global @gridsome/cli` pastikan anda memiliki Node.js
+2. Buka folder ini yang telah di clone dan run `npm install` di terminal
+3. Run development mode dengan run `gridsome develop` di terminal
 
-### 1. Install Gridsome CLI tool if you don't have
-
-`npm install --global @gridsome/cli`
-
-### 2. Create a Gridsome project
-
-1. `gridsome create my-gridsome-site` to install default starter
-2. `cd my-gridsome-site` to open the folder
-3. `gridsome develop` to start a local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌
+Buat info lebih mengenai Gridsome silahkan cek disini https://gridsome.org/docs/
