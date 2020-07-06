@@ -21,9 +21,12 @@
       </div>
     </nav>
     <slot />
-    <Footer />
+    <footer class="teal">
+      <div class="center footer white-text">© Copyright 2020, Kota Tangerang Selatan</div>
+    </footer>
   </div>
 </template>
+
 
 <static-query>
 query {
@@ -34,19 +37,14 @@ query {
 </static-query>
 
 <script>
-document.addEventListener("DOMContentLoaded", function() {
-  var elems = document.querySelectorAll(".sidenav");
-  var instances = M.Sidenav.init(elems, options);
-});
-import Footer from "./Footer";
-export default {
-  components: {
-    Footer
-  }
-};
+export default {};
 </script>
 
 <style scoped>
+.footer {
+  margin-top: 4em;
+  padding: 30px;
+}
 .margin {
   margin-bottom: 20px;
 }

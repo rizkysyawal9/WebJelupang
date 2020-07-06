@@ -2,8 +2,7 @@
 // The Client API can be used here. Learn more: gridsome.org/docs/client-api
 
 import DefaultLayout from '~/layouts/Default.vue'
-import '~/assets/materialize.min.css'
-import '~/js/materialize.min.js'
+import "~/assets/materialize.min.css";
 
 
 export default function (Vue, { router, head, isClient }) {
