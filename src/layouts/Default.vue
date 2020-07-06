@@ -1,16 +1,27 @@
 <template>
-  <div class="layout">
-    <header class="header">
-      <strong>
-        <g-link to="/">{{ $static.metadata.siteName }}</g-link>
-      </strong>
-      <nav class="nav">
-        <g-link class="nav__link" to="/">Home</g-link>
-        <g-link class="nav__link" to="/about/">About</g-link>
-        <g-link class="nav__link" to="/news/">Kabar Terbaru</g-link>
-      </nav>
-    </header>
+  <div>
+    <!-- <nav class="nav-extended"> -->
+
+    <nav>
+      <div class="nav-wrapper teal">
+        <a href="#" class="brand-logo right">
+          <img src="../assets/jelupang.png" alt="image" class="logo" />
+        </a>
+        <ul id="nav-mobile" class="left hide-on-med-and-down">
+          <li>
+            <g-link to="/">Home</g-link>
+          </li>
+          <li>
+            <g-link class="nav__link" to="/about/">About</g-link>
+          </li>
+          <li>
+            <g-link class="nav__link" to="/news/">Kabar Terbaru</g-link>
+          </li>
+        </ul>
+      </div>
+    </nav>
     <slot />
+    <Footer />
   </div>
 </template>
 
@@ -22,8 +33,35 @@ query {
 }
 </static-query>
 
-<style>
-body {
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  var elems = document.querySelectorAll(".sidenav");
+  var instances = M.Sidenav.init(elems, options);
+});
+import Footer from "./Footer";
+export default {
+  components: {
+    Footer
+  }
+};
+</script>
+
+<style scoped>
+.margin {
+  margin-bottom: 20px;
+}
+
+.logo {
+  max-width: 70px;
+  padding: 10px;
+  /* margin-left: 1em;
+  margin-top: -3px;
+  padding: 8px; */
+}
+p {
+  font-size: 30px;
+}
+/* body {
   font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto,
     "Helvetica Neue", Arial, sans-serif;
   margin: 0;
@@ -48,5 +86,5 @@ body {
 
 .nav__link {
   margin-left: 20px;
-}
+} */
 </style>
