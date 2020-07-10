@@ -3,13 +3,12 @@
     <h1>Isi Kabar terbaru terdapat disini</h1>
     <div v-for="post in $page.allBlogPost.edges" :key="post.id" class="card">
       <a :href="post.node.path">
-        <h1>{{post.node.title}}</h1>
-        <p>Posted on {{post.node.date}}</p>
+        <h1>{{ post.node.title }}</h1>
+        <p>Posted on {{ post.node.date }}</p>
       </a>
     </div>
   </Layout>
 </template>
-
 
 <page-query>
 query{
@@ -35,7 +34,7 @@ export default {
 </script>
 
 <style scoped>
-a {
+/* a {
   text-decoration: none;
   color: black;
 }
@@ -53,5 +52,5 @@ a:visited {
 
 .card:hover {
   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
-}
+} */
 </style>

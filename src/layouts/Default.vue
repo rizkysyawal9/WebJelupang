@@ -1,7 +1,7 @@
 <template>
   <div>
     <!-- <nav class="nav-extended"> -->
-
+    <!-- 
     <nav>
       <div class="nav-wrapper teal">
         <a href="#" class="brand-logo right">
@@ -19,14 +19,13 @@
           </li>
         </ul>
       </div>
-    </nav>
+    </nav> -->
+    <Navbar />
     <slot />
-    <footer class="teal">
-      <div class="center footer white-text">© Copyright 2020, Kota Tangerang Selatan</div>
-    </footer>
+
+    <Footer />
   </div>
 </template>
-
 
 <static-query>
 query {
@@ -37,7 +36,14 @@ query {
 </static-query>
 
 <script>
-export default {};
+import Navbar from "../components/navbar";
+import Footer from "../components/footer";
+export default {
+  components: {
+    Navbar,
+    Footer
+  }
+};
 </script>
 
 <style scoped>
