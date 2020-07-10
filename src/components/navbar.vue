@@ -1,20 +1,22 @@
 <template>
-  <div class="header-section clearfix">
-    <a href="index.html" class="site-logo">
-      <img src="../assets/jelupang.png" alt="" style="max-width:70px;" />
-    </a>
+  <header class="header-section clearfix">
+    <g-link to="/" class="site-logo">
+      <g-image src="../assets/jelupang.png" alt="" style="max-width:70px;" />
+    </g-link>
 
     <ul class="main-menu">
-      <li><a href="/">Beranda</a></li>
-      <li><a href="/kknt">KKN-T IPB</a></li>
-      <li><a href="/profil-tim">Profil Tim</a></li>
+      <li><g-link to="/">Beranda</g-link></li>
+      <li><a href="/blog/kkn-t-jelupang">KKN-T IPB</a></li>
+      <li>
+        <g-link to="/blog/profil-tim">Profil Tim</g-link>
+      </li>
       <li>
         <a href="">Program Kerja</a>
         <ul class="sub-menu">
-          <li><a href="/penyuluhan-new-normal">Penyuluhan</a></li>
-          <li><a href="/hand-sanitizer">Pembuatan Hand Sanitizer</a></li>
-          <li><a href="/immune-booster">Pembuatan Immune Booster</a></li>
-          <li><a href="/hidroponik">Hidroponik IoT</a></li>
+          <li><g-link to="/blog/penyuluhan">Penyuluhan</g-link></li>
+          <li><g-link to="/blog/hand-sanitizer">Hand Sanitizer</g-link></li>
+          <li><g-link to="/blog/immune-booster">Immune Booster</g-link></li>
+          <li><g-link to="/blog/hidroponik">Hidroponik</g-link></li>
         </ul>
       </li>
       <li>
@@ -30,20 +32,40 @@
           <li><a href="#">Lokasi RS Rujukan</a></li>
         </ul>
       </li>
-      <li><a href="#">Galeri</a></li>
+      <li><a href="#">Kabar Terbaru</a></li>
     </ul>
-  </div>
+  </header>
+  <!-- <b-navbar toggleable="lg" type="dark" variant="info">
+    <b-navbar-brand href="#">NavBar</b-navbar-brand>
+
+    <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
+
+    <b-collapse id="nav-collapse" is-nav>
+      <b-navbar-nav>
+        <b-nav-item href="#">Link</b-nav-item>
+      </b-navbar-nav>
+
+      <b-navbar-nav>
+        <b-nav-item-dropdown text="Lang" right>
+          <b-dropdown-item href="#">EN</b-dropdown-item>
+          <b-dropdown-item href="#">ES</b-dropdown-item>
+          <b-dropdown-item href="#">RU</b-dropdown-item>
+          <b-dropdown-item href="#">FA</b-dropdown-item>
+        </b-nav-item-dropdown>
+      </b-navbar-nav>
+    </b-collapse>
+  </b-navbar> -->
 </template>
 
 <script>
+// import "../assets/js/jquery-3.2.1.min.js";
+// // import "../assets/js/bootstrap.min.js";
+// import "../assets/js/jquery.slicknav.min.js";
+// import "../assets/js/main.js";
+
 export default {
   name: "Navbar"
 };
 </script>
 
-<style scoped>
-li {
-  text-decoration: none;
-  padding: 0;
-}
-</style>
+<style scoped></style>
