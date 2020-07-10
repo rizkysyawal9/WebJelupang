@@ -182,49 +182,51 @@
           <!-- Subscription section -->
           <CegahCovid />
           <!-- Premium section end -->
-          <div class="premium-section spad">
-            <div class="container">
-              <div class="row">
-                <div class="col-lg-6">
-                  <div class="section-title">
-                    <h2>Pantauan Data Covid-19</h2>
-                  </div>
-                </div>
-              </div>
-
-              <h3><b>Nasional</b></h3>
-              <div class="row">
-                <div class="col-lg-3">
-                  <div class="premium-item">
-                    <h4>Terkonfirmasi</h4>
-                    <div id="konfirm_nasional">
-                      <h3>{{ covid.confirmed.value }}</h3>
+          <div v-if="covid !== null">
+            <div class="premium-section spad">
+              <div class="container">
+                <div class="row">
+                  <div class="col-lg-6">
+                    <div class="section-title">
+                      <h2>Pantauan Data Covid-19</h2>
                     </div>
                   </div>
                 </div>
 
-                <div class="col-lg-3">
-                  <div class="premium-item">
-                    <h4>Sembuh</h4>
-                    <div id="sembuh_nasional">
-                      <h3>{{ covid.recovered.value }}</h3>
+                <h3><b>Nasional</b></h3>
+                <div class="row">
+                  <div class="col-lg-3">
+                    <div class="premium-item">
+                      <h4>Terkonfirmasi</h4>
+                      <div id="konfirm_nasional">
+                        <h3>{{ covid.confirmed.value }}</h3>
+                      </div>
                     </div>
                   </div>
-                </div>
-                <div class="col-lg-3">
-                  <div class="premium-item">
-                    <h4>Meninggal</h4>
-                    <div id="meninggal_nasional">
-                      <h3>{{ covid.deaths.value }}</h3>
-                    </div>
-                  </div>
-                </div>
 
-                <div class="col-lg-3">
-                  <div class="premium-item">
-                    <h4>Terkahir Update:</h4>
-                    <div id="last_update">
-                      <h3>{{ covid.lastUpdate }}</h3>
+                  <div class="col-lg-3">
+                    <div class="premium-item">
+                      <h4>Sembuh</h4>
+                      <div id="sembuh_nasional">
+                        <h3>{{ covid.recovered.value }}</h3>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3">
+                    <div class="premium-item">
+                      <h4>Meninggal</h4>
+                      <div id="meninggal_nasional">
+                        <h3>{{ covid.deaths.value }}</h3>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="col-lg-3">
+                    <div class="premium-item">
+                      <h4>Terkahir Update:</h4>
+                      <div id="last_update">
+                        <h3>{{ covid.lastUpdate }}</h3>
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -327,17 +329,14 @@ export default {
   },
   data() {
     return {
-      covid: {}
+      covid: null
     };
   },
-  async created() {
-    await axios
-      .get("https://covid19.mathdro.id/api/countries/IDN")
-      .then(res => {
-        console.log(res.data);
-        this.covid = res.data;
-      });
-    console.log(this.covid.confirmed.value);
+  mounted() {
+    axios.get("https://covid19.mathdro.id/api/countries/IDN").then(res => {
+      console.log(res.data);
+      this.covid = res.data;
+    });
   }
 };
 </script>

@@ -11,15 +11,6 @@
 
       <h4><b>Hal yang Harus Dilakukan :</b></h4>
       <div class="row">
-        <div v-for="info in infos" :key="info.id" class="col-lg-3 col-sm-6">
-          <div class="premium-item">
-            <g-image src="../assets/img/covid/do-stay-at-home.webp" alt="" />
-            <p>
-              Tetap tinggal di rumah; bekerja dari rumah, belajar dari rumah,
-              dan beribadah di rumah
-            </p>
-          </div>
-        </div>
         <div class="col-lg-3 col-sm-6">
           <div class="premium-item">
             <g-image src="../assets/img/covid/do-stay-at-home.webp" alt="" />
