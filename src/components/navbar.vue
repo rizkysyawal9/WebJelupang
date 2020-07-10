@@ -58,11 +58,6 @@
 </template>
 
 <script>
-// import "../assets/js/jquery-3.2.1.min.js";
-// // import "../assets/js/bootstrap.min.js";
-// import "../assets/js/jquery.slicknav.min.js";
-// import "../assets/js/main.js";
-
 export default {
   name: "Navbar"
 };
