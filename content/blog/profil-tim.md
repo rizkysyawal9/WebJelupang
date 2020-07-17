@@ -6,17 +6,6 @@ date: 2020-07-04T13:11:17.374Z
 
 Kuliah Kerja Nyata merupakan kegiatan pengabdian masyarakat oleh mahasiswa dengan pendekatan lintas ilmu pada daerah tertentu di Indonesia. Kelompok KKN Tangsel 08 dibentuk oleh 10 mahasiswa IPB University yang berasal dari jurusan dan keilmuan yang berbeda. Pelaksanaan kelompok KKN Tangsel 08 berlansung selama 40 hari di daerah kelurahan Jelupang secara semi-daring dan mematuhi protokol Covid-19 yang telah ditetapkan oleh LPPM IPB dan pemerintahan setempat. 
 
-Program Kerja yang kita laksanakan adalah:
-
-1. Penyuluhan Masyarakat Jelupang Mengenai Covid-19 & New Normal
-2. Pembagian dan Tata Cara Pembuatan Minuman Immune Booster di Rumah
-3. Pembagian dan Tata Cara Pembuatan Hand Sanitizer di Rumah
-4. Pembuatan Website Cepat Tanggap Covid-19 Kelurahan Jelupang
-5. Pengelolaan Tanaman Hidroponik bersama Kelompok PKK
-6. Pengelolaan Bank Sampah setempat
-
-
-
 Anggota Kelompok Tangsel 08: 
 
 1. Wisnu Widikdo - Fakultas Matematika dan Ilmu Pengetahuan Alam (Ketua)
