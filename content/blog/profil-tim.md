@@ -1,10 +1,31 @@
 ---
-title: Profil-tim
+title: "Profil-tim "
 date: 2020-07-04T13:11:17.374Z
 ---
+![](/uploads/tim.jpg)
 
-![](/uploads/kknt.jpeg)
+Kuliah Kerja Nyata merupakan kegiatan pengabdian masyarakat oleh mahasiswa dengan pendekatan lintas ilmu pada daerah tertentu di Indonesia. Kelompok KKN Tangsel 08 dibentuk oleh 10 mahasiswa IPB University yang berasal dari jurusan dan keilmuan yang berbeda. Pelaksanaan kelompok KKN Tangsel 08 berlansung selama 40 hari di daerah kelurahan Jelupang secara semi-daring dan mematuhi protokol Covid-19 yang telah ditetapkan oleh LPPM IPB dan pemerintahan setempat. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sit amet orci a ante porta pharetra ac ac justo. Phasellus convallis, sem nec pretium aliquet, erat felis dignissim massa, eget cursus augue justo et erat. Nulla sollicitudin dapibus ipsum, tempor aliquam augue consequat at. Suspendisse non augue lorem. Vestibulum turpis risus, dapibus non est in, semper tempus justo. Fusce vitae quam urna. Duis sit amet lectus lobortis, tincidunt risus vel, ultrices sem. Praesent imperdiet sem eget nibh condimentum finibus. Integer lacinia nisl sed nisl elementum pretium. Morbi nec ante arcu. Praesent vel sollicitudin nisl. Duis volutpat efficitur fermentum. Vestibulum tortor diam, mattis ac sapien sed, venenatis mollis velit. Nulla lacinia orci tempus venenatis vestibulum. Quisque quis ante egestas, ullamcorper ligula vel, pretium lorem.
+Program Kerja yang kita laksanakan adalah:
 
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris arcu risus, ultricies eu porttitor sit amet, luctus et elit. Mauris elementum a massa eget euismod. Nam vel porttitor tortor. Mauris nec augue viverra, dapibus diam id, tristique nulla. Duis blandit purus purus, ut condimentum sem venenatis eu. Morbi vitae nisi nibh. Vestibulum vel eros iaculis, consectetur ligula vitae, volutpat libero. Aliquam a dolor efficitur, tincidunt risus eu, ultrices diam. Sed a porttitor nulla, at rutrum eros. Quisque sed nulla ut lacus suscipit rutrum. Nulla consequat placerat lacus, in congue nunc. Curabitur est velit, convallis sit amet porta in, tempor porttitor ligula. Pellentesque sit amet mollis odio. Proin scelerisque tellus eleifend feugiat hendrerit.
+1. Penyuluhan Masyarakat Jelupang Mengenai Covid-19 & New Normal
+2. Pembagian dan Tata Cara Pembuatan Minuman Immune Booster di Rumah
+3. Pembagian dan Tata Cara Pembuatan Hand Sanitizer di Rumah
+4. Pembuatan Website Cepat Tanggap Covid-19 Kelurahan Jelupang
+5. Pengelolaan Tanaman Hidroponik bersama Kelompok PKK
+6. Pengelolaan Bank Sampah setempat
+
+
+
+Anggota Kelompok Tangsel 08: 
+
+1. Wisnu Widikdo - Fakultas Matematika dan Ilmu Pengetahuan Alam (Ketua)
+2. Moh. Rizky Aditya - Fakultas Pertanian 
+3. Syifa Salsabila - Fakultas Kehutanan
+4. Rizky Ramadhan - Fakultas Perikanan dan Ilmu Kelautan
+5. Hazmiralda Syahfirdy - Fakultas Ekonomi Manajemen
+6. Dellia Shanie Amaraningrum - Fakultas Teknologi Pertanian
+7. Krisdianti - Fakultas Perikanan dan Ilmu Kelautan
+8. Rizky Syawal - Fakultas Matematika dan Ilmu Pengetahuan Alam 
+9. Alfinda Bilqis - Fakultas Matematika dan Ilmu Pengetahuan Alam
+10. Muhammad Guntur - Fakultas Matematika dan Ilmu Pengetahuan Alam
