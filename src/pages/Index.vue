@@ -12,6 +12,7 @@
                 <div class="col-lg-6">
                   <div class="section-title">
                     <h2>Profil Wilayah</h2>
+                    <g-image src="../assets/img/landing/jelupang.jpeg" style="max-width: 500px" />
                   </div>
                 </div>
 
@@ -34,11 +35,11 @@
                     <b>didominasi dengan perumahan dan pemukiman</b> sehingga
                     lahan untuk pertanian dan peternakan sulit dikembangkan,
                     mengingat
-                    <b
-                      >tidak ada kecukupan wilayah untuk pembangunan sarana yang
+                    <b>
+                      tidak ada kecukupan wilayah untuk pembangunan sarana yang
                       mendasar seperti jaringan irigasi dan juga untuk
-                      peternakan</b
-                    >
+                      peternakan
+                    </b>
                     terdapat kesulitan untuk dikembangkan dikarenakan lahan
                     semakin terdesak dengan perumahan, sekalipun ada biasanya
                     masyarakat mencoba untuk melakukan usaha hewan ternak
@@ -48,10 +49,10 @@
                   <p>
                     Kondisi pengembangan kedua sektor tersebut semakin terhambat
                     dikarenakan
-                    <b
-                      >lahan-lahan non teknis di wilayah tersebut jarang
-                      digarap</b
-                    >
+                    <b>
+                      lahan-lahan non teknis di wilayah tersebut jarang
+                      digarap
+                    </b>
                     dan lebih cenderung untuk dijual oleh pemilik lahan. Maka
                     dari itu lahan pertanian dan peternakan jarang ditemui
                     sehingga
@@ -74,9 +75,7 @@
                   </div>
                 </div>
               </div>
-              <p>
-                Keterangan di sini ya gan.
-              </p>
+              <p>Keterangan di sini ya gan.</p>
               <div class="row">
                 <div class="col-lg-3 col-sm-6">
                   <div class="concept-item">
@@ -127,51 +126,51 @@
                 <div class="col-lg-6">
                   <p>
                     Coronavirus Disease 2019 atau Covid-19 adalah
-                    <b
-                      >penyakit baru yang dapat menyebabkan gangguan pernapasan
-                      dan radang paru</b
-                    >. Penyakit ini disebabkan oleh infeksi
-                    <i
-                      >Severe Acute Respiratory Syndrome Coronavirus 2
-                      (SARS-CoV-2)</i
-                    >. Gejala klinis yang muncul beragam, mulai dari seperti
-                    <b
-                      >gejala flu biasa (batuk, pilek, nyeri tenggorok, nyeri
+                    <b>
+                      penyakit baru yang dapat menyebabkan gangguan pernapasan
+                      dan radang paru
+                    </b>. Penyakit ini disebabkan oleh infeksi
+                    <i>
+                      Severe Acute Respiratory Syndrome Coronavirus 2
+                      (SARS-CoV-2)
+                    </i>. Gejala klinis yang muncul beragam, mulai dari seperti
+                    <b>
+                      gejala flu biasa (batuk, pilek, nyeri tenggorok, nyeri
                       otot, nyeri kepala) sampai yang berkomplikasi berat
-                      (pneumonia atau sepsis).</b
-                    >
+                      (pneumonia atau sepsis).
+                    </b>
                   </p>
 
                   <p>
                     Covid-19 adalah penyakit baru dan para peneliti masih
                     mempelajari bagaimana cara penularannya. Dari berbagai
                     penelitian,
-                    <b
-                      >metode penyebaran utama penyakit ini diduga adalah
+                    <b>
+                      metode penyebaran utama penyakit ini diduga adalah
                       melalui droplet saluran pernapasan dan kontak dekat dengan
-                      penderita</b
-                    >.
-                    <b
-                      >Droplet merupakan partikel kecil dari mulut penderita
-                      yang dapat mengandung virus</b
-                    >
+                      penderita
+                    </b>.
+                    <b>
+                      Droplet merupakan partikel kecil dari mulut penderita
+                      yang dapat mengandung virus
+                    </b>
                     penyakit, yang dihasilkan pada saat batuk, bersin, atau
                     berbicara. Droplet dapat melewati sampai jarak tertentu
                     (biasanya 1 meter).
                   </p>
 
                   <p>
-                    <b
-                      >Droplet bisa menempel di pakaian atau benda di sekitar
-                      penderita</b
-                    >
+                    <b>
+                      Droplet bisa menempel di pakaian atau benda di sekitar
+                      penderita
+                    </b>
                     pada saat batuk atau bersin. Namun, partikel droplet cukup
                     besar sehingga tidak akan bertahan atau mengendap di udara
                     dalam waktu yang lama. Namun,
-                    <b
-                      >masyarakat diwajibkan untuk menggunakan masker kain yang
-                      menutupi hidung dan mulut</b
-                    >
+                    <b>
+                      masyarakat diwajibkan untuk menggunakan masker kain yang
+                      menutupi hidung dan mulut
+                    </b>
                     untuk mencegah penyebaran droplet.
                   </p>
                 </div>
@@ -193,7 +192,9 @@
                   </div>
                 </div>
 
-                <h3><b>Nasional</b></h3>
+                <h3>
+                  <b>Nasional</b>
+                </h3>
                 <div class="row">
                   <div class="col-lg-3">
                     <div class="premium-item">
@@ -289,15 +290,17 @@
                   </ol>
                   <div class="hs-text">
                     <p>
-                      <a href="tel:112" class="site-btn"
-                        >Layanan Call Center <b>112/119</b> (BEBAS PULSA / TOLL
-                        FREE)</a
-                      >
+                      <a href="tel:112" class="site-btn">
+                        Layanan Call Center
+                        <b>112/119</b> (BEBAS PULSA / TOLL
+                        FREE)
+                      </a>
                     </p>
                     <p>
-                      <a href="tel:0811889371" class="site-btn"
-                        >Dinas Kesehatan Kota Tangsel <b>0811 889 371</b></a
-                      >
+                      <a href="tel:0811889371" class="site-btn">
+                        Dinas Kesehatan Kota Tangsel
+                        <b>0811 889 371</b>
+                      </a>
                     </p>
                     <p>
                       <a href="#" class="site-btn sb-c2">Kontak Selengkapnya</a>

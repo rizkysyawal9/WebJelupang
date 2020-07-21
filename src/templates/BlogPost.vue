@@ -14,7 +14,7 @@
             class="img-fluid rounded"
             src="http://placehold.it/900x300"
             alt=""
-          /> -->
+          />-->
           <g-image :src="$page.blogPost.image" width="500" height="500" />
 
           <div v-html="$page.blogPost.content"></div>
@@ -27,7 +27,7 @@
       <h1>{{ $page.blogPost.title }}</h1>
       <g-image :src="$page.blogPost.image" width="500" />
       <div v-html="$page.blogPost.content"></div>
-    </article> -->
+    </article>-->
   </Layout>
 </template>
 <page-query>
@@ -39,7 +39,11 @@
     }
   </page-query>
 <script>
-export default {};
+export default {
+  metaInfo: {
+    title: "Tangsel X IPB"
+  }
+};
 </script>
 
 <style></style>

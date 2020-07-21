@@ -1,5 +1,5 @@
 {
-  "name": "webjelupang",
+  "name": "kkntjelupang",
   "private": true,
   "scripts": {
     "build": "gridsome build",
