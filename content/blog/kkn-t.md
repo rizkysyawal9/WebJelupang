@@ -2,9 +2,24 @@
 title: KKN-T Jelupang
 date: 2020-07-04T13:11:17.374Z
 ---
+![](/uploads/kkntipb.jpg)
 
-![](/uploads/jelupang.jpg)
+Kuliah Kerja Nyata atau KKN adalah bentuk kegiatan pengabdian kepada masyarakat oleh mahasiswa dengan pendekatan lintas keilmuan dan sektoral pada waktu dan daerah tertentu. Setiap tahun, mahasiswa IPB yang telah menyelesaikan semester 6 melaksanakan KKN di daerah yang ditujukan oleh LPPM IPB. Namun berbeda dengan tahun tahun sebelumnya, sesuai dengan protokol Covid-19, KKN-T tahun 2020 merupakan KKN wilayah dimana KKN dilaksnakan di daerah mahasiswa masing-masing dan dilakukan secara semi-daring. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sit amet orci a ante porta pharetra ac ac justo. Phasellus convallis, sem nec pretium aliquet, erat felis dignissim massa, eget cursus augue justo et erat. Nulla sollicitudin dapibus ipsum, tempor aliquam augue consequat at. Suspendisse non augue lorem. Vestibulum turpis risus, dapibus non est in, semper tempus justo. Fusce vitae quam urna. Duis sit amet lectus lobortis, tincidunt risus vel, ultrices sem. Praesent imperdiet sem eget nibh condimentum finibus. Integer lacinia nisl sed nisl elementum pretium. Morbi nec ante arcu. Praesent vel sollicitudin nisl. Duis volutpat efficitur fermentum. Vestibulum tortor diam, mattis ac sapien sed, venenatis mollis velit. Nulla lacinia orci tempus venenatis vestibulum. Quisque quis ante egestas, ullamcorper ligula vel, pretium lorem.
+Kelompok kami, KKN Tangsel 08 bekerjasama dengan kelurahan Jelupang untuk melaksanakan berbagai program kerja KKN yang sesuai dengan protokol Covid-19. Diantaranya adalah: 
 
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris arcu risus, ultricies eu porttitor sit amet, luctus et elit. Mauris elementum a massa eget euismod. Nam vel porttitor tortor. Mauris nec augue viverra, dapibus diam id, tristique nulla. Duis blandit purus purus, ut condimentum sem venenatis eu. Morbi vitae nisi nibh. Vestibulum vel eros iaculis, consectetur ligula vitae, volutpat libero. Aliquam a dolor efficitur, tincidunt risus eu, ultrices diam. Sed a porttitor nulla, at rutrum eros. Quisque sed nulla ut lacus suscipit rutrum. Nulla consequat placerat lacus, in congue nunc. Curabitur est velit, convallis sit amet porta in, tempor porttitor ligula. Pellentesque sit amet mollis odio. Proin scelerisque tellus eleifend feugiat hendrerit.
+1. Sosialisasi kondisi dan gaya hidup baru New Normal kepada masyarakat RW06 Jelupang.
+
+2. Pembagian masker, hand sanitizer dan minuman peningkatan imun tubuh alami kepada masyarakat RW06 Jelupang.
+
+3. Sosial Media & Website informasi pencegahan Covid-19 
+
+4. Video pembuatan *hand sanitizer* secara mandiri
+
+5. Video pembuatan hidroponik secara mandiri
+
+6. Video pembuatan immune booster drink secara mandiri
+
+7. Pengembangan hidroponik Kelompok Wanita Tani RW06 Jelupang. 
+
+8. Pembuatan *IoT Humidity Sensor* untuk Hidroponik
