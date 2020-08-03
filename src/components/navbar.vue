@@ -126,26 +126,8 @@
 </template>
 
 <script>
-// import {
-//   BNavbar,
-//   BNavbarBrand,
-//   BNavbarToggle,
-//   BNavbarNav,
-//   BNavItemDropdown,
-//   BDropdownItem,
-//   BCollapse
-// } from "bootstrap-vue";
 export default {
   name: "Navbar"
-  // components: {
-  //   BNavbar,
-  //   BNavbarBrand,
-  //   BNavbarToggle,
-  //   BNavbarNav,
-  //   BNavItemDropdown,
-  //   BDropdownItem,
-  //   BCollapse
-  // }
 };
 </script>
 
@@ -167,5 +149,9 @@ export default {
 
 a {
   text-decoration: none;
+}
+
+.bg-dark {
+  background-color: blue;
 }
 </style>

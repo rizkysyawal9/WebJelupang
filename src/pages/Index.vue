@@ -12,7 +12,6 @@
                 <div class="col-lg-6">
                   <div class="section-title">
                     <h2>Profil Wilayah</h2>
-                    <g-image src="../assets/img/landing/jelupang.jpeg" style="max-width: 500px" />
                   </div>
                 </div>
 
@@ -336,7 +335,7 @@ export default {
     };
   },
   mounted() {
-    axios.get("https://covid19.mathdro.id/api/countries/IDN").then(res => {
+    axios.get("https://covid19.mathdro.id/api/countries/IDN").then((res) => {
       console.log(res.data);
       this.covid = res.data;
     });
