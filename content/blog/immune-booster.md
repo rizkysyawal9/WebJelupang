@@ -2,9 +2,12 @@
 title: Immune Booster
 date: 2020-07-04T13:11:17.374Z
 ---
-
 ![](/uploads/immunebooster.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sit amet orci a ante porta pharetra ac ac justo. Phasellus convallis, sem nec pretium aliquet, erat felis dignissim massa, eget cursus augue justo et erat. Nulla sollicitudin dapibus ipsum, tempor aliquam augue consequat at. Suspendisse non augue lorem. Vestibulum turpis risus, dapibus non est in, semper tempus justo. Fusce vitae quam urna. Duis sit amet lectus lobortis, tincidunt risus vel, ultrices sem. Praesent imperdiet sem eget nibh condimentum finibus. Integer lacinia nisl sed nisl elementum pretium. Morbi nec ante arcu. Praesent vel sollicitudin nisl. Duis volutpat efficitur fermentum. Vestibulum tortor diam, mattis ac sapien sed, venenatis mollis velit. Nulla lacinia orci tempus venenatis vestibulum. Quisque quis ante egestas, ullamcorper ligula vel, pretium lorem.
+Hal pertama yang harus dilakukan untuk membuat immune booster adalah menyiapkan bahan-bahannya. Bahan-bahan yang dibutuhkan untuk membuat immune booster dengan proporsi nya masing-masing adalah: 300 mL air, 2 ruas jahe, 2 ruas kunyit,1 batang sereh, 1/2 jeruk nipis peras,1.5 sdt gula area. Proporsi bahan-bahan ini diperuntukan untuk 1 porsi immune booster. 
 
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris arcu risus, ultricies eu porttitor sit amet, luctus et elit. Mauris elementum a massa eget euismod. Nam vel porttitor tortor. Mauris nec augue viverra, dapibus diam id, tristique nulla. Duis blandit purus purus, ut condimentum sem venenatis eu. Morbi vitae nisi nibh. Vestibulum vel eros iaculis, consectetur ligula vitae, volutpat libero. Aliquam a dolor efficitur, tincidunt risus eu, ultrices diam. Sed a porttitor nulla, at rutrum eros. Quisque sed nulla ut lacus suscipit rutrum. Nulla consequat placerat lacus, in congue nunc. Curabitur est velit, convallis sit amet porta in, tempor porttitor ligula. Pellentesque sit amet mollis odio. Proin scelerisque tellus eleifend feugiat hendrerit.
+
+Tahap kedua adalah mengolah rempah-rempah yang akan digunakan. Jahe harus diiris-iris terlebih dahulu, begitu juga dengan kunyit dan sereh. Kemudian setelah diiris-iris, ketiga bahan rempah tersebut di geprek. Jika sudah masukkan ketiga bahan tersebut kedalam panci yang sudah berisi air 300 mL. 
+
+
+Setelah bahan-bahan utama diproses, dan dimasukkan ke panci, taruh panci tersebut di kompor lalu aduk hingga panas, namun jangan sampai mendidih. Jika sudah panas, pindahkan ke gelas dan beri perasan jeruk nipis serta tambahkan gula aren untuk menyedapkan rasanya. Selesai! Immune booster siap dikonsumsi.
