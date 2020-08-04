@@ -25,7 +25,7 @@
               <g-link to="/blog/hand-sanitizer">Hand Sanitizer</g-link>
             </li>
             <li>
-              <g-link to="/blog/immune-booster">Immune Booster</g-link>
+              <g-link to="/immune-booster">Immune Booster</g-link>
             </li>
             <li>
               <g-link to="/blog/hidroponik">Hidroponik</g-link>
@@ -83,7 +83,7 @@
               <g-link to="/blog/hand-sanitizer" class="grey">Hand Sanitizer</g-link>
             </b-dropdown-item>
             <b-dropdown-item>
-              <g-link to="/blog/immune-booster" class="grey">Immune Booster</g-link>
+              <g-link to="/immune-booster" class="grey">Immune Booster</g-link>
             </b-dropdown-item>
             <b-dropdown-item>
               <g-link to="/blog/hidroponik" class="grey">Hidroponik</g-link>

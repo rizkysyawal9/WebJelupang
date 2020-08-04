@@ -96,7 +96,7 @@
                 </div>
                 <div class="col-lg-3 col-sm-6">
                   <div class="concept-item">
-                    <g-link to="/blog/immune-booster/">
+                    <g-link to="/immune-booster/">
                       <g-image src="../assets/img/proker/immune_booster.jpg" />
                     </g-link>
                     <h5>Pembuatan Immune Booster</h5>
