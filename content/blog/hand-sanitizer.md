@@ -3,6 +3,24 @@ title: Hand Sanitizer
 date: 2020-07-04T13:11:17.374Z
 ---
 
-**Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sit amet orci a ante porta pharetra ac ac justo. Phasellus convallis, sem nec pretium aliquet, erat felis dignissim massa, eget cursus augue justo et erat. Nulla sollicitudin dapibus ipsum, tempor aliquam augue consequat at. Suspendisse non augue lorem. Vestibulum turpis risus, dapibus non est in, semper tempus justo. Fusce vitae quam urna. Duis sit amet lectus lobortis, tincidunt risus vel, ultrices sem. Praesent imperdiet sem eget nibh condimentum finibus. Integer lacinia nisl sed nisl elementum pretium. Morbi nec ante arcu. Praesent vel sollicitudin nisl. Duis volutpat efficitur fermentum. Vestibulum tortor diam, mattis ac sapien sed, venenatis mollis velit. Nulla lacinia orci tempus venenatis vestibulum. Quisque quis ante egestas, ullamcorper ligula vel, pretium lorem.**
 
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris arcu risus, ultricies eu porttitor sit amet, luctus et elit. Mauris elementum a massa eget euismod. Nam vel porttitor tortor. Mauris nec augue viverra, dapibus diam id, tristique nulla. Duis blandit purus purus, ut condimentum sem venenatis eu. Morbi vitae nisi nibh. Vestibulum vel eros iaculis, consectetur ligula vitae, volutpat libero. Aliquam a dolor efficitur, tincidunt risus eu, ultrices diam. Sed a porttitor nulla, at rutrum eros. Quisque sed nulla ut lacus suscipit rutrum. Nulla consequat placerat lacus, in congue nunc. Curabitur est velit, convallis sit amet porta in, tempor porttitor ligula. Pellentesque sit amet mollis odio. Proin scelerisque tellus eleifend feugiat hendrerit.
+### Cara membuat hand sanitizer sederhana
+
+**Alat dan Bahan**
+
+1. Wadah
+
+2. Etanol 95% ( bisa juga menggunakan etanol 70%) 
+
+3. Aloe Vera Gel / Gel lidah buaya
+
+4. Essence oil/ parfum/pewangi
+
+**Cara pembuatan**
+
+1. Campurkan etanol 95 % dengan gel lidah buaya dengan perbandingan 2:1 ( misal etanol 95% 200 ml, maka gel lidah buaya yang dipakai sebanyak 100 ml), bila memakai etanol 70 % maka perbandingannya adalah 3:1 ( misal 300 ml etanol 70 % dicampur dengan gel lidah buaya 100 ml ). Etanol berfungsi sebagai bahan aktif antiseptik dan antivirus, sedangkan lidah buaya berfungsi sebagai pelembab kulit agar kulit tidak kering.
+2. Aduk campuran sampai homogen/ rata
+3. Jika sudah rata, tambahkan essence oil atau pewangi sesuai selera
+4. Masukkan ke dalam wadah tertutup dan hand Sanitizer siap
+
+   digunakan
