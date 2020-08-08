@@ -2,7 +2,6 @@
 title: Hand Sanitizer
 date: 2020-07-04T13:11:17.374Z
 ---
-![](/uploads/handsanitizer.jpg)
 
 **Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sit amet orci a ante porta pharetra ac ac justo. Phasellus convallis, sem nec pretium aliquet, erat felis dignissim massa, eget cursus augue justo et erat. Nulla sollicitudin dapibus ipsum, tempor aliquam augue consequat at. Suspendisse non augue lorem. Vestibulum turpis risus, dapibus non est in, semper tempus justo. Fusce vitae quam urna. Duis sit amet lectus lobortis, tincidunt risus vel, ultrices sem. Praesent imperdiet sem eget nibh condimentum finibus. Integer lacinia nisl sed nisl elementum pretium. Morbi nec ante arcu. Praesent vel sollicitudin nisl. Duis volutpat efficitur fermentum. Vestibulum tortor diam, mattis ac sapien sed, venenatis mollis velit. Nulla lacinia orci tempus venenatis vestibulum. Quisque quis ante egestas, ullamcorper ligula vel, pretium lorem.**
 

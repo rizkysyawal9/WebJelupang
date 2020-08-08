@@ -4,6 +4,9 @@
       <g-link to="/" class="site-logo">
         <g-image src="../assets/jelupang.png" alt style="max-width:70px;" />
       </g-link>
+      <g-link to="/" class="site-logo">
+        <g-image src="../assets/kkn.png" alt style="max-width:70px;" />
+      </g-link>
 
       <ul class="main-menu">
         <li>
@@ -22,7 +25,7 @@
               <g-link to="/blog/penyuluhan">Penyuluhan</g-link>
             </li>
             <li>
-              <g-link to="/blog/hand-sanitizer">Hand Sanitizer</g-link>
+              <g-link to="/hand-sanitizer">Hand Sanitizer</g-link>
             </li>
             <li>
               <g-link to="/immune-booster">Immune Booster</g-link>
@@ -57,7 +60,9 @@
     <b-navbar toggleable="lg" type="dark" variant="info" class="d-md-none bg-dark">
       <b-navbar-brand>
         <g-image src="../assets/jelupang.png" alt style="max-width:50px;" />
+        <g-image src="../assets/kkn.png" alt style="max-width:50px; margin-left:20px;" />
       </b-navbar-brand>
+      <b-navbar-brand></b-navbar-brand>
 
       <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 
@@ -80,7 +85,7 @@
               <g-link to="/blog/penyuluhan" class="grey">Penyuluhan</g-link>
             </b-dropdown-item>
             <b-dropdown-item>
-              <g-link to="/blog/hand-sanitizer" class="grey">Hand Sanitizer</g-link>
+              <g-link to="/hand-sanitizer" class="grey">Hand Sanitizer</g-link>
             </b-dropdown-item>
             <b-dropdown-item>
               <g-link to="/immune-booster" class="grey">Immune Booster</g-link>

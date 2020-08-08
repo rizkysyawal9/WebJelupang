@@ -29,4 +29,15 @@ export default {
 .white {
   color: white;
 }
+
+@media screen and (max-width: 450px) {
+  .big {
+    padding: 0 20px;
+    font-size: 50px;
+  }
+
+  .small {
+    font-size: 40px;
+  }
+}
 </style>
