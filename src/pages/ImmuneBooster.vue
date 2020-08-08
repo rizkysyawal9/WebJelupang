@@ -21,7 +21,7 @@
             allowfullscreen
             class="video"
           ></iframe>
-          <div v-html="$page.blogPost.content"></div>
+          <div v-html="$page.blogPost.content" class="margin"></div>
           <hr />
         </div>
       </div>
@@ -56,5 +56,8 @@ export default {};
   /* override other styles to make responsive */
   width: 100% !important;
   height: 420px;
+}
+.margin {
+  margin-top: -40px;
 }
 </style>

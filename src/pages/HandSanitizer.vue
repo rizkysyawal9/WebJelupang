@@ -52,5 +52,6 @@ export default {};
   /* override other styles to make responsive */
   width: 100% !important;
   height: 420px;
+  margin-bottom: 20px;
 }
 </style>
