@@ -88,8 +88,7 @@
                 </div>
                 <div class="col-lg-3 col-sm-6">
                   <div class="concept-item">
-                    <g-link to="/
-                    hand-sanitizer/">
+                    <g-link to="/hand-sanitizer">
                       <g-image src="../assets/img/proker/hand_sanitizer.jpg" />
                     </g-link>
                     <h5>Pembuatan Hand Sanitizer</h5>
