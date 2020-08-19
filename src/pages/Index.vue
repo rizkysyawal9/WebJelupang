@@ -74,7 +74,6 @@
                   </div>
                 </div>
               </div>
-              <p>Keterangan di sini ya gan.</p>
               <div class="row">
                 <div class="col-lg-3 col-sm-6">
                   <div class="concept-item">
