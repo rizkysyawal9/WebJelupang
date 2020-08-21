@@ -39,21 +39,19 @@
           <a href="#">Informasi</a>
           <ul class="sub-menu">
             <li>
-              <a href="#">Layanan Darurat Covid-19</a>
+              <a href="https://lawancovid19.tangerangselatankota.go.id/">Layanan Darurat Covid-19</a>
             </li>
             <li>
               <a href="https://lawancovid19.tangerangselatankota.go.id/lapor">Lapor Gejala Covid-19</a>
             </li>
+
             <li>
-              <a href="#">Pedoman New Normal</a>
-            </li>
-            <li>
-              <a href="#">Lokasi RS Rujukan</a>
+              <a href="https://lawancovid19.tangerangselatankota.go.id/#rujukan">Lokasi RS Rujukan</a>
             </li>
           </ul>
         </li>
         <li>
-          <a href="#">Kabar Terbaru</a>
+          <g-link to="/kabar-terbaru">Kabar Terbaru</g-link>
         </li>
       </ul>
     </header>
