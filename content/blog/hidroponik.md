@@ -2,8 +2,7 @@
 title: Hidroponik
 date: 2020-07-04T13:11:17.374Z
 ---
-
-![](/uploads/hidroponik.jpg)
+![](/uploads/hidroponikiot.png)
 
 Program hidroponik dimulai dengan penyemaian bibit oleh Kelompok KKN-T Tangsel 08 bersama masyarakat terutama Ibu-Ibu yang tergabung dalam kelompok PKK. Bersama kita membuat media tanam menggunakan rockwool dan menyemai benih pakchoy dan percobaan menyemai benih selada. Selanjutnya mengenai penjualan komoditi hasil panen hidroponik Mentari Hydro. Kami memberikan *knowledge* tentang pemasaran dan pembukuan hasil penjualan. Pemasaran dilakukan secara daring menggunakan media sosial Instagram dan Facebook.
 
@@ -16,22 +15,25 @@ Untuk penanaman hidroponik kami juga membantu dalam pembuatan tempat penumbuhan 
 Alat *monitoring* ini berbasis mikrokontroler Arduino dalam memantau nutrisi AB Mix pada hidroponik juga mengendalikan hidup-mati pompa berdasarkan jam. Alat yang digunakan tidak terlalu banyak dapat dibeli di *online shop* seperti Shoope dan Tokopedia.
 
 ### Bahan dan Alat
-|Nama Alat       |Keterangan                     |
-|----------------|-------------------------------|
-|Arduino UNO R3  | Mikrokontroler                |
-|RTC             | Pengatur jam                  |
-|DHT11           | Sensor kelembaban             |
-|DS18B20         | Sensor tempratur              |
-|Relay           | Pengendali pompa              |
-|Breadboard      |                               |
-|Kabel jumper    |                               |
-|LCD with I2C Module | Untuk menampilkan output  |
+
+| Nama Alat           | Keterangan               |
+| ------------------- | ------------------------ |
+| Arduino UNO R3      | Mikrokontroler           |
+| RTC                 | Pengatur jam             |
+| DHT11               | Sensor kelembaban        |
+| DS18B20             | Sensor tempratur         |
+| Relay               | Pengendali pompa         |
+| Breadboard          |                          |
+| Kabel jumper        |                          |
+| LCD with I2C Module | Untuk menampilkan output |
 
 ### Rangakian Alat
+
 ![](/uploads/rangkaian-alat.png)
 
 ### Source Code
-~~~c
+
+```c
 #include <DHT.h>
 #include <DHT_U.h>
 #include <RTClib.h>
@@ -333,11 +335,12 @@ void workPump(int nowJam, int nowMenit, int nowHari) {
       }
   }
 }
+```
 
-~~~
 ### Library
-- DHT
-- RTCLib
-- LiquidCrystal_I2C
-- Modified OneWire [Download Here](/uploads/libraries/OneWireNoResistor-master.zip)
-- Modified DallasTemperature [Download Here](/uploads/libraries/Arduino-Temperature-Control-Library-master.zip)
+
+* DHT
+* RTCLib
+* LiquidCrystal_I2C
+* Modified OneWire [Download Here](/uploads/libraries/OneWireNoResistor-master.zip)
+* Modified DallasTemperature [Download Here](/uploads/libraries/Arduino-Temperature-Control-Library-master.zip)
