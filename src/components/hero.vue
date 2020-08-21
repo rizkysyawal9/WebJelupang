@@ -1,7 +1,7 @@
 <template>
   <div class="home-banner">
     <div class="mx-auto title" style="text-align:center;">
-      <h1 class="white big">Kecamatan Tangerang Selatan</h1>
+      <h1 class="white big">Kota Tangerang Selatan</h1>
       <br />
       <h2 class="white small">Kelurahan Jelupang</h2>
     </div>
