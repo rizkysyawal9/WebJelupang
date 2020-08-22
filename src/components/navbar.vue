@@ -2,10 +2,10 @@
   <div>
     <header class="header-section clearfix d-none d-md-block">
       <g-link to="/" class="site-logo">
-        <g-image src="../assets/jelupang.png" alt style="max-width:50px;" />
+        <g-image src="../assets/jelupang.png" alt style="max-width:70px;" />
       </g-link>
       <g-link to="/" class="site-logo">
-        <g-image src="../assets/kkn.png" alt style="max-width:50px;" />
+        <g-image src="../assets/kkn.png" alt style="max-width:70px;" />
       </g-link>
 
       <ul class="main-menu">
