@@ -2,10 +2,10 @@
   <div>
     <header class="header-section clearfix d-none d-md-block">
       <g-link to="/" class="site-logo">
-        <g-image src="../assets/jelupang.png" alt style="max-width:70px;" />
+        <g-image src="../assets/jelupang.png" alt style="max-width:50px;" />
       </g-link>
       <g-link to="/" class="site-logo">
-        <g-image src="../assets/kkn.png" alt style="max-width:70px;" />
+        <g-image src="../assets/kkn.png" alt style="max-width:50px;" />
       </g-link>
 
       <ul class="main-menu">
@@ -74,6 +74,9 @@
           </b-nav-item>
           <b-nav-item>
             <g-link to="/blog/profil-tim" class="white">Profil Tim</g-link>
+          </b-nav-item>
+          <b-nav-item>
+            <g-link to="/kabar-terbaru" class="white">Kabar Terbaru</g-link>
           </b-nav-item>
         </b-navbar-nav>
 

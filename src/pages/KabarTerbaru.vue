@@ -6,7 +6,7 @@
           v-if="post.node.title!='Profil-tim ' && post.node.title!='Beasiswa Bank Indonesia' && post.node.title!='KKN-T Jelupang' && post.node.title!='Tangerang Selatan 08'"
         >
           <a :href="post.node.path">
-            <div class="card" style="margin: 16px 180px">
+            <div class="card">
               <g-image src="../assets/kkn.png" style="max-width: 150px" class="image"></g-image>
               <div class="flex-item">
                 <h2>{{ post.node.title}}</h2>
@@ -45,13 +45,18 @@ query{
 }
 .card {
   padding: 16px;
-  margin: 16px;
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
+  margin: 16px 180px;
 }
 .flex-item {
   margin-left: 30px;
+}
+@media screen and (max-width: 420px) {
+  .card {
+    margin: 12px;
+  }
 }
 </style>
