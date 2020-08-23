@@ -342,5 +342,5 @@ void workPump(int nowJam, int nowMenit, int nowHari) {
 * DHT
 * RTCLib
 * LiquidCrystal_I2C
-* Modified OneWire [Download Here](/uploads/libraries/OneWireNoResistor-master.zip)
-* Modified DallasTemperature [Download Here](/uploads/libraries/Arduino-Temperature-Control-Library-master.zip)
+* Modified OneWire [Download Here](/uploads/libraries_arduino/OneWireNoResistor-master.zip)
+* Modified DallasTemperature [Download Here](/uploads/libraries_arduino/Arduino-Temperature-Control-Library-master.zip)
