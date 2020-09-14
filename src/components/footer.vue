@@ -39,7 +39,7 @@
             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
             Copyright &copy;
             {{ date }}
-            All rights reserved | This template is made with
+            All rights reserved | CSS taken from
             <i class="fa fa-heart-o" aria-hidden="true"></i> by
             <a href="https://colorlib.com" target="_blank">Colorlib</a>
             <!--  Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
